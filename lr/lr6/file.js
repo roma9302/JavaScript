@@ -137,7 +137,7 @@ var array = [6,2,4,3,7,5,7,5]
 var array1 =[]
 
 for(var i = 0;i<array.length ; i++){
-  array1[i] = array[array.length - i]
+  array1[i] = array[array.length - i - 1]
   }
 
 
